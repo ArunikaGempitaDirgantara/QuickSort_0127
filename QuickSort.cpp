@@ -42,6 +42,9 @@ void swap(int x, int y)
     mov_count++;
 }
 
+void q_short(int low, int high)
+{}
+
 int main()
 {
     std::cout << "Hello World!\n";
